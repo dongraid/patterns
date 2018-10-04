@@ -1,7 +1,12 @@
 # Patterns
-Proxy
-State
-Strategy
-Visitor
-Interpreter
+*Proxy*
+
+*State*
+
+*Strategy*
+
+*Visitor*
+
+*Interpreter*
+
 
